@@ -1,4 +1,4 @@
-# Project 2025
+# Snake Game
 
 基于 Next.js 的项目，包含贪吃蛇游戏实现。
 
